@@ -29,8 +29,6 @@ Aplicar conceitos estatísticos básicos na análise de séries temporais, com f
 - `cotacao-dolar.pbix` → Arquivo do Power BI com o dashboard.
 - `README.md` → Documentação do projeto.
 
-> Obs.: O dataset está embutido no arquivo `.pbix`. Caso você deseje utilizar os dados em outros projetos, extraia-os pelo Power BI Desktop ou entre em contato.
-
 ## 🚀 Como visualizar
 
 1. Faça o download do arquivo `cotacao-dolar.pbix`.
